@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apochelo
-- 👀 I’m interested in Web Develop and Mobile App Develop
+- 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning JavaScript
 
 <!---
